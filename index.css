@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(217, 54%, 11%);
+}
+
+
+.card {
+    color: hsl(216, 50%, 16%);
+
+
+
+}
+
+.img1 {
+    width: 280px;
+    height: 200px;
+    margin-top: 10px;
+
+
+
+}
+
+.img2 {
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+
+
+}
+
+.para {
+    color: hsl(0, 0%, 100%);
+    margin-top: 5px;
+}
+
+.para1 {
+    color: hsl(215, 51%, 70%);
+    margin-top: 5px;
+
+}
+
+.para2 {
+    color: hsl(178, 100%, 50%);
+    border-bottom: 2px solid  hsl(215, 32%, 27%);
+margin-top: 20px;
+font-size: 12px;
+  
+  
+    
+}
+
+.para3 {
+    color: hsl(215, 51%, 70%);
+    position: relative;
+    left: 200px;
+    bottom: 30px;
+    margin-top: 5px;
+    font-size: 12px;
+  
+}
+
+.para4 {
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    left: 30px;
+    bottom: 25px;
+    margin-top: 5px;
+    font-size: 10px;
+
+}
